@@ -28,3 +28,11 @@ git clone https://github.com/jedidiahm/Jedidiah-Mathangi-Resume-Website.git
 cd Jedidiah-Mathangi-Resume-Website
 open index.html # On macOS
 # or double-click index.html in your file explorer
+```
+## Viewing the Website
+
+The website is hosted using GitHub Pages and can be viewed at https://jedidiahm.github.io/Jedidiah-Mathangi-Resume-Website/.
+
+## Contributing
+
+This project is a personal portfolio piece and is not open for contributions.
